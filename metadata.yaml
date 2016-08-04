@@ -1,0 +1,28 @@
+_repo: North-American-Free-Trade-Agreement-1992-Oct.-7-Tariff-Phasing-Descriptions_89
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Canada
+    gutenberg_agent_id: '62'
+    url: http://www.gutenberg.org/2009/agents/62
+description: ''
+gutenberg_issued: '1993-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '89'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'KDZ'
+- !lcsh 'Free trade -- Canada'
+- !lcsh 'Free trade -- United States'
+- !lcsh 'Canada. Treaties, etc. 1992 Oct. 7'
+- !lcsh 'Tariff -- Law and legislation -- North America'
+- !lcsh 'Free trade -- Mexico'
+- !lcsh 'Foreign trade regulation -- North America'
+- !lcsh 'Free trade -- North America'
+- GITenberg
+title: North American Free Trade Agreement, 1992 Oct. 7 Tariff Phasing Descriptions
+url: http://www.gutenberg.org/ebooks/89
