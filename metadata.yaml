@@ -1,11 +1,16 @@
 _repo: North-American-Free-Trade-Agreement-1992-Oct.-7-Tariff-Phasing-Descriptions_89
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Canada
     gutenberg_agent_id: '62'
     url: http://www.gutenberg.org/2009/agents/62
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/89#North-American-Free-Trade-Agreement-1992-Oct.-7-Tariff-Phasing-Descriptions
 gutenberg_issued: '1993-11-01'
 gutenberg_type: Text
 identifiers:
